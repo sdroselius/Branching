@@ -1,5 +1,9 @@
 # Git Branching Cheat Sheet
 
+## Overview
+
+Summary of common git commands, and practice with branching.
+
 ## Basic Commands
 * `git init` - initialize local git repository
 * `git add .` - stage files in working directory for commit
