@@ -4,6 +4,11 @@
 
 Summary of common git commands, and practice with branching.
 
+Stuff added by Rob on main.
+More main stuff here.
+blah
+blah
+
 ## Basic Commands
 * `git init` - initialize local git repository
 * `git add .` - stage files in working directory for commit
