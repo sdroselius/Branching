@@ -4,6 +4,13 @@
 
 Summary of common git commands, and practice with branching.
 
+Stuff added on newZBranch.
+This will conflict with main.
+derp
+derp
+derp
+
+
 ## Basic Commands
 * `git init` - initialize local git repository
 * `git add .` - stage files in working directory for commit
@@ -24,4 +31,5 @@ Summary of common git commands, and practice with branching.
 ## Remote Commands
 * `git remote add origin URL` - set `origin` as alias for remote repo `URL`
 * `git push origin branchName` - push local commits to `origin` repo on branch `branchName`
+* `git pull origin branchName` - pull remote branch `branchName` into current local branch
 
