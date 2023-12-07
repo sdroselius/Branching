@@ -14,3 +14,14 @@ Summary of common git commands, and practice with branching.
 * `git log` - list commit history
 * `git log --oneline` - list commit history, compact format
 * `git config -l` - list local git configuration
+* `git help` - show synopsis of git commands
+
+## Branching Commands
+* `git branch` - list local branches
+* `git branch branchName` - create local branch `branchName`
+* `git checkout branchName` - move to branch `branchName`
+
+## Remote Commands
+* `git remote add origin URL` - set `origin` as alias for remote repo `URL`
+* `git push origin branchName` - push local commits to `origin` repo on branch `branchName`
+
