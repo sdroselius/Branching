@@ -5,9 +5,7 @@
 Summary of common git commands, and practice with branching.
 
 Stuff added by Rob on main.
-More main stuff here.
-blah
-blah
+Stuff added on newBranch.
 
 ## Basic Commands
 * `git init` - initialize local git repository
@@ -29,4 +27,5 @@ blah
 ## Remote Commands
 * `git remote add origin URL` - set `origin` as alias for remote repo `URL`
 * `git push origin branchName` - push local commits to `origin` repo on branch `branchName`
+* `git pull origin branchName` - pull remote branch `branchName` into current local branch
 
