@@ -10,6 +10,7 @@
 * `git log` - list commit history
 * `git log --oneline` - list commit history, compact format
 * `git config -l` - list local git configuration
+* `git help` - show synopsis of git commands
 
 ## Branching Commands
 * `git branch` - list local branches
