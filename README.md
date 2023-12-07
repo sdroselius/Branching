@@ -4,12 +4,8 @@
 
 Summary of common git commands, and practice with branching.
 
-Stuff added on newZBranch.
-This will conflict with main.
-derp
-derp
-derp
-
+Stuff added by Rob on main.
+Stuff added on newBranch.
 
 ## Basic Commands
 * `git init` - initialize local git repository
