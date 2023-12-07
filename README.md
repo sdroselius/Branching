@@ -10,3 +10,8 @@
 * `git log` - list commit history
 * `git log --oneline` - list commit history, compact format
 * `git config -l` - list local git configuration
+
+## Branching Commands
+* `git branch` - list local branches
+* `git branch branchName` - create local branch `branchName`
+* `git checkout branchName` - move to branch `branchName`
