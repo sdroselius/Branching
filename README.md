@@ -1,5 +1,7 @@
 ## Git Cheat Sheet and Branching Practice
 
+Examples of common git commands. Also practice dealing with branching and resolving merge conflicts.
+
 ### General Commands
 * `git init` - initialize local git repo in current working directory
 * `git add filename` - stage `filename` for commit
