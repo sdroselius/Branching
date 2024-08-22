@@ -24,4 +24,3 @@ Examples of common git commands. Also practice dealing with branching and resolv
 * `git remote add origin url` - add new remote `url` with alias `origin`
 * `git push origin branchName` - push current local branch to remote branch `branchName`
 * `git pull origin branchName` - pull and merge remote branch `branchName` with current local branch
-
