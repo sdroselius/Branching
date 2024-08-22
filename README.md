@@ -15,3 +15,8 @@
 * `git branch branchName` - create local branch `branchName`
 * `git checkout branchName` - switch to branch `branchName`
 * `git checkout -b branchName` - create and switch to branch `branchName`
+
+### Remote Commands
+* `git remote add origin url` - add new remote `url` with alias `origin`
+* `git push origin branchName` - push current local branch to remote branch `branchName`
+* `git pull origin branchName` - pull and merge remote branch `branchName` with current local branch
