@@ -27,4 +27,4 @@ Stuff added here in newBranch.
 * `git pull origin branchName` - pull and merge remote branch `branchName` with current local branch
 
 newBranch stuff
-more stuff from newBranch
+other stuff added in main.
