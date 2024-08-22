@@ -2,8 +2,7 @@
 
 Examples of common git commands. Also practice dealing with branching and resolving merge conflicts.
 
-Stuff added in main branch.
-More main stuff.
+Stuff added here in newBranch.
 
 ### General Commands
 * `git init` - initialize local git repo in current working directory
@@ -14,7 +13,8 @@ More main stuff.
 * `git status` - show status of local repo
 * `git log` - list commit history of current branch
 * `git log --oneline` - list commit history (compact format)
-
+* `git config --list` - list local repo config settings
+ 
 ### Branching Commands
 * `git branch` - list local branches
 * `git branch branchName` - create local branch `branchName`
@@ -26,5 +26,5 @@ More main stuff.
 * `git push origin branchName` - push current local branch to remote branch `branchName`
 * `git pull origin branchName` - pull and merge remote branch `branchName` with current local branch
 
-
+newBranch stuff
 other stuff added in main.
