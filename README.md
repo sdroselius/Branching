@@ -53,6 +53,7 @@ Change made on main.
    ```
 1. Create pull request on Github
 1. Merge pull request to main
+1. Pull remote main to local main
 
 
 
