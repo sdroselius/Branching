@@ -1,6 +1,7 @@
 ## Git Branching Practice
 
 Git cheat sheet and branching practice.
+Change made on main.
 
 ### Basic Commands
 * `git init` - initialize local git repo in current folder (working directory)
