@@ -11,6 +11,14 @@ Git cheat sheet and branching practice.
 * `git status` - show current status of working directory
 * `git log` - show local commit history
 * `git log --oneline` - show local commit history, compact format
+* `git config -l` - list configuration of local repo
+* `git config --global -l` - list global configuration
+* `git version` - show version of installed git
+
+### Branching Commands
+* `git branch` - list local branches
+* `git branch branchName` - create new branch `branchName`
+* `git checkout branchName` - switch to branc `branchName`
 
 ### Remote Commands
 * `git remote add alias URL` - connect local repo to remote, using name `alias` for remote repo `URL`
